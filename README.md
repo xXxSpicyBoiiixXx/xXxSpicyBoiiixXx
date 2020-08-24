@@ -1,6 +1,8 @@
-<h1 align="center">Howdy 👋! My name is Md Ali</h1>
+<h1 align="center">Howdy 👋, My name is Md Ali</h1>
 <h2 align="center">A passionate learner and educator from Texas</h3>
-#### A passionate learner and educator from Texas
+<h3 align="center">Ph.D. Computer Science Canidate
+  M.S. Applied Cybersecurity and Digital Forensics
+  B.S. Phyiscs and Applied Mathematics</h3>
 #### Ph.D. Computer Science Canidate
 #### M.S. Applied Cybersecurity and Digital Forensics
 #### B.S. Phyiscs and Applied Mathematics
