@@ -1,4 +1,9 @@
 ### Hi there 👋
+### I'm Md Ali!
+#### A passionate learner and educator from Texas
+#### Ph.D. Computer Science Canidate
+#### M.S. Applied Cybersecurity and Digital Forensics
+#### B.S. Phyiscs and Applied Mathematics
 
 <!--
 **xXxSpicyBoiiixXx/xXxSpicyBoiiixXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
