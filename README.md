@@ -1,4 +1,4 @@
-<h1 align>="center"> Howdy 👋!</h1>
+<h1 align="center"> Howdy 👋!</h1>
 ### Howdy 👋!
 ### I'm Md Ali!
 #### A passionate learner and educator from Texas
