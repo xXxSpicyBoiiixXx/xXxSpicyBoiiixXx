@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning high-performance computing, parallel computing, and distributed systems. I am also learning Korean!
 - 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss on different ideas and problems we can work on together.
 - 💬 Ask me about cybersecurity, physics, and quantum stuff lol
-- 📫 How to reach me: <br> Email - mdali251@yahoo.com <br> Phone - +1 979-709-1156 <br> LinkedIn - https://www.linkedin.com/in/md-aliev/
+- 📫 How to reach me: <br> Email - mdali251@yahoo.com <br> Phone - +1 979.709.1156 <br> LinkedIn - https://www.linkedin.com/in/md-aliev/
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Korean. 
 
