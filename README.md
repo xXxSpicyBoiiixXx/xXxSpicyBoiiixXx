@@ -5,7 +5,7 @@
 <!--
 **xXxSpicyBoiiixXx/xXxSpicyBoiiixXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
