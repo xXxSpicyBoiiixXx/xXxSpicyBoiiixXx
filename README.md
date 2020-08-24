@@ -1,9 +1,6 @@
 <h1 align="center">Howdy 👋, My name is Md Ali</h1>
 <h2 align="center">A passionate researcher and educator from Texas</h3>
 <h3 align="center">Ph.D. Computer Science Canidate <br> M.S. Applied Cybersecurity and Digital Forensics <br> B.S. Phyiscs and Applied Mathematics</h3>
-#### Ph.D. Computer Science Canidate
-#### M.S. Applied Cybersecurity and Digital Forensics
-#### B.S. Phyiscs and Applied Mathematics
 
 <!--
 **xXxSpicyBoiiixXx/xXxSpicyBoiiixXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
