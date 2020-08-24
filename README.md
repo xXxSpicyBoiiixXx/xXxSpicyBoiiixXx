@@ -12,7 +12,8 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Korean. 
 
-<p align="left"><img src="https://www.linux.com/images/stories/66866/kali-logo.png" alt="kalilinx" width="40" height="40"/>
+<p align="left"><img src="http://fossforce.com/wp-content/uploads/2016/08/blackarchlogo.jpg" alt="blackarch" width="40" height="40"/>
+  <img src="https://www.linux.com/images/stories/66866/kali-logo.png" alt="kalilinx" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
