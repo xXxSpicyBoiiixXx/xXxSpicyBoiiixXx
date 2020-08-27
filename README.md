@@ -33,6 +33,6 @@
 
 <p align="center"><img src="https://user-images.githubusercontent.com/66300613/91433724-56747f80-e829-11ea-8ff4-80bfab94bf5c.jpeg" alt="010101">
 <h4 align="center">Favorite Quote</h4>
-<p align="center"><em>"A hacker is someone who enjoys playful cleverness, not necessarily with computers. The programmers in the old MIT free software community of the 60s and 70s referred to themselves as hackers. Around 1980, journalists who discovered the hacker community mistakenly took the term to mean "security breaker." "</em></p>
+<p align="center"><em>"A hacker is someone who enjoys playful cleverness, not necessarily with computers. The programmers in the old MIT free software community of the 60s and 70s referred to themselves as hackers. Around 1980, journalists who discovered the hacker community mistakenly took the term to mean 'security breaker.' "</em></p>
 <p align="right">- Founder of the Free Software Foundation,</p>
 <p align="right"><em><b>Richard Stallman</b></em></p>
