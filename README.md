@@ -31,7 +31,7 @@
 
 <h1 align="center"></h1>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/66300613/91433567-16ad9800-e829-11ea-9801-de79b0f84583.jpg" alt="matrix">
+<p align="center"><img src="https://user-images.githubusercontent.com/66300613/91433724-56747f80-e829-11ea-8ff4-80bfab94bf5c.jpeg" alt="010101">
 <h4 align="center">Favorite Quote</h4>
 <p align="center"><em>"When you ask what are electrons and protons I ought to answer that this question is not a profitable one to ask and does not really have a meaning. The important thing about electrons and protons is not what they are but how they behave, how they move. I can describe the situation by comparing it to the game of chess. In chess, we have various chessmen, kings, knights, pawns and so on. If you ask what chessman is, the answer would be that it is a piece of wood, or a piece of ivory, or perhaps just a sign written on paper, or anything whatever. It does not matter. Each chessman has a characteristic way of moving and this is all that matters about it. The whole game of chess follows from this way of moving the various chessmen."</em></p>
 <p align="right">- Theoretical Physicst and founder of the Dirac equation,</p>
