@@ -33,7 +33,7 @@
 
 <h1 align="center"></h1>
 
-<p align="center"><img src="https://thewallpaper.co//wp-content/uploads/2016/10/hd-arch-linux-background-amazing-images-cool-1080p-windows-wallpapers-download-desktop-backgrounds-artworks-ultra-hd-2560x1440.jpg" alt="010101">
+<p align="center"><img src="https://wallup.net/wp-content/uploads/2017/11/23/514501-Linux-Arch_Linux-748x421.jpg" alt="ArchLinuxWallpaper">
 <h4 align="center">Favorite Quote</h4>
 <p align="center"><em>"A company can spend hundreds of thousands of dollars on firewalls, intrusion detection systems and encryption and other security technologies, but if an attacker can call one trusted person within the company, and that person complies, and if the attacker gets in, then all that money spent on technology is essentially wasted."</em></p>
 <p align="right">- Computer Security Consultant and Convicted Hacker,</p>
