@@ -2,7 +2,7 @@
 <h2 align="center">A passionate researcher and educator from Texas</h3>
 <h3 align="center">Ph.D. Computer Science Student <br> M.S. Applied Cybersecurity and Digital Forensics <br> B.S. Phyiscs and Applied Mathematics</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p>
+<! <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p>>
 
 - 🔭 I’m currently working on Quantum Information and Cryptography. Part of the [HExSA Lab (IIT CS)](https://github.com/HExSA-Lab) and working on high-performance computing and parallel computing.
 - 🌱 I’m currently learning high-performance computing, parallel computing, and distributed systems. I am also learning Korean!
