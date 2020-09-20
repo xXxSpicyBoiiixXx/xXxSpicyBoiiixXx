@@ -28,7 +28,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&layout=compact&hide=html" alt="xxxspicyboiiixxx" />
-  <img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime/?username=xxxspicyboiiixxx" alt="wakatimeweek" />
+  <img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xxxspicyboiiixxx" alt="wakatimeweek" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true" alt="xxxspicyboiii" />
 
