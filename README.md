@@ -27,10 +27,10 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
  <!-- figure this out later... <img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xxxspicyboiiixxx" alt="wakatimeweek" /> --> 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&theme=vision-friendly-dark" alt="xxxspicyboiii" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="xxxspicyboiii" />
 
 <h1 align="center"></h1>
 
