@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p> -->
 
-- 🔭 I’m currently working on Quantum Information and Cryptography. Part of the [HExSA Lab (IIT CS)](https://github.com/HExSA-Lab) and working on high-performance computing and parallel computing.
+- 🔭 I’m currently working on Quantum Information and Cryptography. Part of the [HExSA Lab (IIT CS)](https://github.com/HExSA-Lab), working on high-performance computing and parallel computing under the advisement of Dr. Kyle Hale.
 - 🌱 I’m currently learning high-performance computing, parallel computing, and distributed systems. I am also learning Korean!
 - 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss on different ideas and problems we can work on together.
 - 💬 Ask me about cybersecurity, physics, and quantum stuff lol
