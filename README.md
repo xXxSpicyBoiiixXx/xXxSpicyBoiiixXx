@@ -10,7 +10,7 @@
 - 💬 Ask me about cybersecurity, physics, and quantum stuff lol
 - 📫 How to reach me: <br> Email - mdali251@yahoo.com <br>
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Korean. 
+- ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese. 
 
 <!-- Something funky is happening to the small icons so I'll be omitting them for now<p align="left"><img src="http://fossforce.com/wp-content/uploads/2016/08/blackarchlogo.jpg" alt="blackarch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width="40" height="40"/>
