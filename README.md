@@ -4,8 +4,8 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p> -->
 
-- 🔭 I’m currently working on Quantum Information and Cryptography. Part of the [HExSA Lab (IIT CS)](https://github.com/HExSA-Lab), working on high-performance computing and parallel computing under the advisement of [Dr. Kyle Hale](https://github.com/khale).
-- 🌱 I’m currently learning high-performance computing, parallel computing, and distributed systems. I am also learning Korean!
+- 🔭 I’m currently working on Quantum Information and Cryptography. Part of the [HExSA Lab (IIT CS)](https://github.com/HExSA-Lab) where I am working on high-performance computing, parallel computing, and coalescent computing under the advisement of [Dr. Kyle Hale](https://github.com/khale). In addition, I am also working under [Dr. Stefan Muller](https://github.com/smuller).
+- 🌱 I’m currently learning operating systems, worst case execution times, theory of computation, and quantum computing. 
 - 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss on different ideas and problems we can work on together.
 - 💬 Ask me about cybersecurity, physics, and quantum stuff lol
 - 📫 How to reach me: <br> Email - mali54@hawk.iit.edu <br>
@@ -37,6 +37,6 @@
 
 <p align="center"><img src="https://wallup.net/wp-content/uploads/2017/11/23/514501-Linux-Arch_Linux-748x421.jpg" alt="ArchLinuxWallpaper">
 <h4 align="center">Favorite Quote</h4>
-<p align="center"><em>"A company can spend hundreds of thousands of dollars on firewalls, intrusion detection systems and encryption and other security technologies, but if an attacker can call one trusted person within the company, and that person complies, and if the attacker gets in, then all that money spent on technology is essentially wasted."</em></p>
-<p align="right">- Computer Security Consultant and Convicted Hacker,</p>
-<p align="right"><em><b>Kevin Mitnick</b></em></p>
+<p align="center"><em>"The isolated man does not develop any intellectual power. It is necessary for him to be immersed in an environment of other men, whose techniques he absorbs during the first twenty years of his life. He may then perhaps do a little research of his own and make a very few discoveries which are passed on to other men. From this point of view the search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals."</em></p>
+<p align="right">- Father of Theoretical Computer Science,</p>
+<p align="right"><em><b>Alan Turing</b></em></p>
