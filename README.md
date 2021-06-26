@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p> -->
 
-- 🔭 I’m currently working on Quantum Information and Cryptography. Part of the [HExSA Lab (IIT CS)](https://github.com/HExSA-Lab) where I am working on high-performance computing, parallel computing, and coalescent computing under the advisement of [Dr. Kyle Hale](https://github.com/khale). In addition, I am also working on worst case execution times in programming languages under [Dr. Stefan Muller](https://github.com/smuller).
+- 🔭 I’m currently working on Quantum Information and Cryptography. Part of the [HExSA Lab (IIT CS)](https://github.com/HExSA-Lab) where I am working on high-performance computing, parallel computing, and coalescent computing under the advisement of [Dr. Kyle Hale](https://github.com/khale). In addition, I am also working on worst case execution times in programming languages under the advisement of [Dr. Stefan Muller](https://github.com/smuller). My interests are in between operating systems and programming language, I also enjoy the theoretical and mathematical pieces of nature as well as computer systems. 
 - 🌱 I’m currently learning operating systems, worst case execution times, theory of computation, and quantum computing. 
 - 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss on different ideas and problems we can work on together.
 - 💬 Ask me about cybersecurity, physics, and quantum stuff lol
