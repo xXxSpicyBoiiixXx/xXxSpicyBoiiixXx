@@ -12,9 +12,6 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese. 
 
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
 <!-- Something funky is happening to the small icons so I'll be omitting them for now<p align="left"><img src="http://fossforce.com/wp-content/uploads/2016/08/blackarchlogo.jpg" alt="blackarch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width="40" height="40"/>
   <img src="https://www.linux.com/images/stories/66866/kali-logo.png" alt="kalilinx" width="40" height="40"/>
@@ -41,6 +38,8 @@
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="xxxspicyboiii" />
 
+### 😂 Here is a random joke that'll make you laugh!
+<img align="center" src="https://readme-jokes.vercel.app/api" />
 
 <h1 align="center"></h1>
 
