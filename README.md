@@ -38,13 +38,12 @@
 -->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="xxxspicyboiii" />
 
-### 😂 Here is a random joke that'll make you laugh!
-<img align="center" src="https://readme-jokes.vercel.app/api" />
-
-<h1 align="center"></h1>
-
-<p align="center"><img src="https://wallup.net/wp-content/uploads/2017/11/23/514501-Linux-Arch_Linux-748x421.jpg" alt="ArchLinuxWallpaper">
+ <h1 align="center"></h1> 
+<p align="center"><img src="https://wallup.net/wp-content/uploads/2017/11/23/514501-Linux-Arch_Linux-748x421.jpg" alt="ArchLinuxWallpaper"> 
 <h4 align="center">Favorite Quote</h4>
 <p align="center"><em>"The isolated man does not develop any intellectual power. It is necessary for him to be immersed in an environment of other men, whose techniques he absorbs during the first twenty years of his life. He may then perhaps do a little research of his own and make a very few discoveries which are passed on to other men. From this point of view the search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals."</em></p>
 <p align="right">- Father of Theoretical Computer Science,</p>
 <p align="right"><em><b>Alan Turing</b></em></p>
+
+### 😂 Here is a random joke that'll make you laugh!
+<img src="https://readme-jokes.vercel.app/api" />
