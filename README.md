@@ -12,6 +12,9 @@
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese. 
 
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <!-- Something funky is happening to the small icons so I'll be omitting them for now<p align="left"><img src="http://fossforce.com/wp-content/uploads/2016/08/blackarchlogo.jpg" alt="blackarch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width="40" height="40"/>
   <img src="https://www.linux.com/images/stories/66866/kali-logo.png" alt="kalilinx" width="40" height="40"/>
@@ -28,10 +31,16 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></p> -->
+  
+  <!-- Top Languages
+  -->
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
  <!-- figure this out later... <img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xxxspicyboiiixxx" alt="wakatimeweek" /> --> 
 
+<!-- Github stats 
+-->
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="xxxspicyboiii" />
+
 
 <h1 align="center"></h1>
 
