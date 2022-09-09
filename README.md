@@ -1,10 +1,10 @@
 <h1 align="center">Howdy 👋, My name is Md Ali</h1>
 <h2 align="center">A passionate researcher and educator from Texas</h3>
-<h3 align="center">Ph.D. Computer Science Student <br> M.S. Applied Cybersecurity and Digital Forensics <br> B.S. Phyiscs and Applied Mathematics</h3>
+<h3 align="center">D.Sc. Cybesecurity Student <br> M.A.S. Computer Science <br> M.S. Applied Cybersecurity and Digital Forensics <br> B.S. Phyiscs and Applied Mathematics</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p> -->
 
-- 🔭 I am part of the [HExSA Lab (IIT CS)](https://github.com/HExSA-Lab) where I am working on high-performance computing, parallel computing, and coalescent computing under the advisement of [Dr. Kyle Hale](https://github.com/khale). In addition, I am also working on worst case execution times in programming languages under the advisement of [Dr. Stefan Muller](https://github.com/smuller). My interests are in between operating systems and programming language, I also enjoy the theoretical and mathematical pieces of nature as well as computer systems. 
+- 🔭 I am a cybersecurity consultant who dables in coding ;) 
 - 🌱 I’m currently learning operating systems, worst case execution times, theory of computation, and quantum computing. 
 - 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss on different ideas and problems we can work on together.
 - 💬 Ask me about cybersecurity, physics, and quantum stuff lol
