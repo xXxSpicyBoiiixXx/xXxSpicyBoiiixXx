@@ -6,6 +6,7 @@
 
 - 🔭 I am a cybersecurity consultant who dables in coding ;) 
 - 🌱 I’m currently learning operating systems, worst case execution times, theory of computation, and quantum computing. 
+- 👨‍💻 Contributing to [EndeavourOS](https://github.com/endeavouros-team)! Come help out on this amazing open source OS. 
 - 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss on different ideas and problems we can work on together.
 - 💬 Ask me about cybersecurity, physics, and quantum stuff lol
 - 📫 How to reach me: <br> Email - mdali251@yahoo.com <br>
