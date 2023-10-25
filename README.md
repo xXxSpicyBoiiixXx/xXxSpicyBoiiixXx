@@ -17,14 +17,17 @@
 - ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese.
 
 ## **📊 Stats**
-<div align="center" style="text-align:center">
+<div align="left" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xXxSpicyBoiiixXx&show_icons=true&theme=vision-friendly-dark&count_private=true"
-            alt="Md's GitHub Stats">
-    </a>
-    <a href="#">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xXxSpicyBoiiixXx&show_icons=true&theme=vision-friendly-dark&count_private=true"
+            alt="Md's GitHub Stats"> </a>
+</div>
+
+<div align="left" style="text-align:center">
+     <a href="#">
         <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiiixXx&theme=vision-friendly-dark"
             alt="Md's Github commit streak">
+     </a>
 </div>
 
 
