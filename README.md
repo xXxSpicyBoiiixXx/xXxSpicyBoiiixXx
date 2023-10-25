@@ -70,8 +70,8 @@
 <p align="right">- Father of Theoretical Computer Science,</p>
 <p align="right"><em><b>Alan Turing</b></em></p>
 
-## 😂 Here is a random joke that'll make you laugh!
-<img align="center" height=200 src="https://readme-jokes.vercel.app/api" />
+<!-- ## 😂 Here is a random joke that'll make you laugh!
+<img align="center" height=200 src="https://readme-jokes.vercel.app/api" /> -->
 
 <p align="center">
     <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg">
