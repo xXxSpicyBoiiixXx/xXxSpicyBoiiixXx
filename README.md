@@ -1,4 +1,4 @@
-# Howdy 👋, my name is **[Md Ali](https://alihmd.com)!
+# Howdy 👋, my name is **[Md Ali](https://alihmd.com)**!
 
 <!-- <h1 align="center">Howdy 👋, My name is Md Ali</h1>
 <h2 align="center">A passionate researcher and educator from Texas</h3>
@@ -47,7 +47,7 @@
   
   <!-- Top Languages
   -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
  <!-- figure this out later... <img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xxxspicyboiiixxx" alt="wakatimeweek" /> --> 
 
 <!-- Github stats 
