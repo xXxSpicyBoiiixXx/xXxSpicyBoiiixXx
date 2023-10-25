@@ -23,7 +23,7 @@
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxspicyboiiixxx&theme=vision-friendly-dark"
-            alt="Md's Github commit streak">
+            alt="Md's Github Commit Streak">
 </p>
 
 <!-- # Howdy 👋, my name is **[Md Ali](https://alihmd.com)**! -->
