@@ -10,34 +10,20 @@
 - 📫 How to reach me: <br> Email - mdali251@yahoo.com <br>
 - ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese.
 
+<br>
 
 ## **📊 Stats**
-<div align="center" style="text-align:center">
-    <a href="#">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xXxSpicyBoiiixXx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
-            alt="Md's GitHub Stats"/> </a>
-        align="left" style="text-align:center">
-     <a href="#">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiiixXx&theme=vision-friendly-dark"
-            alt="Md's Github commit streak">
-     </a>
-</div>
-<div align="center" style="text-align:center"> 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
-
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
-
- </div>
-
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xXxSpicyBoiiixXx" width="auto"></img>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=xXxSpicyBoiiixXx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
+            alt="Md's GitHub Stats"/> 
+    <img align="center" height=246 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+</p>
 
 <br>
 
-<h1 align="center"></h1>
-
 <p align="center">
-    <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiiixXx&theme=vision-friendly-dark"
+            alt="Md's Github commit streak">
 </p>
 
 <!-- # Howdy 👋, my name is **[Md Ali](https://alihmd.com)**! -->
@@ -84,5 +70,9 @@
 <p align="right">- Father of Theoretical Computer Science,</p>
 <p align="right"><em><b>Alan Turing</b></em></p>
 
-### 😂 Here is a random joke that'll make you laugh!
+## 😂 Here is a random joke that'll make you laugh!
 <img src="https://readme-jokes.vercel.app/api" />
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg">
+</p>
