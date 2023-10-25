@@ -1,16 +1,32 @@
-<h1 align="center">Howdy 👋, My name is Md Ali</h1>
+# Howdy 👋, my name is **[Md Ali](https://alihmd.com)!
+
+<!-- <h1 align="center">Howdy 👋, My name is Md Ali</h1>
 <h2 align="center">A passionate researcher and educator from Texas</h3>
 <h3 align="center">Ph.D. Computer Science Student <br> M.S. Computer Science <br> M.S. Applied Cybersecurity and Digital Forensics <br> B.S. Phyiscs and Applied Mathematics</h3>
+--> 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p> -->
 
-- 🔭 I am a cybersecurity consultant who dables in coding ;) 
-- 🌱 I’m currently learning operating systems, worst case execution times, theory of computation, and quantum computing. 
-- 👨‍💻 Contributing to [EndeavourOS](https://github.com/endeavouros-team)! Come help out on this amazing open source OS. 
-- 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss on different ideas and problems we can work on together.
-- 💬 Ask me about cybersecurity, physics, and quantum stuff lol
+## **🤔 About me**
+- 🔭 I am a cybersecurity consultant who dabbles in coding ;) 
+- 🌱 I’m currently learning operating systems, system security, and a slew of other things. 
+- 👨‍💻 Contributing to [EndeavourOS](https://github.com/endeavouros-team)! Come help out on this amazing open-source OS. 
+- 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss different ideas and problems we can work on together.
+- 💬 Ask me about cybersecurity, coding, or physics.
 - 📫 How to reach me: <br> Email - mdali251@yahoo.com <br>
-- ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese. 
+- ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese.
+
+## **📊 Stats**
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=xXxSpicyBoiiixXx&show_icons=true&theme=vision-friendly-dark&count_private=true"
+            alt="Md's GitHub Stats">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiii&theme=vision-friendly-dark"
+            alt="Md's Github commit streak">
+</div>
+
 
 <!-- Something funky is happening to the small icons so I'll be omitting them for now<p align="left"><img src="http://fossforce.com/wp-content/uploads/2016/08/blackarchlogo.jpg" alt="blackarch" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="arch" width="40" height="40"/>
@@ -31,7 +47,7 @@
   
   <!-- Top Languages
   -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
  <!-- figure this out later... <img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xxxspicyboiiixxx" alt="wakatimeweek" /> --> 
 
 <!-- Github stats 
