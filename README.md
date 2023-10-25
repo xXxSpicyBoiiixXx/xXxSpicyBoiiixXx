@@ -1,11 +1,5 @@
-# Howdy 👋, my name is **[Md Ali](https://alihmd.com)**!
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=4000&pause=100&color=149414&center=true&vCenter=true&random=false&width=435&lines=Howdy+%F0%9F%91%8B%2C+my+name+is+Md+Ali;Ethical+Hacker;Computer+Science+Professor;Passionate+OS+Developer;Integrity+First;Always+Loyal;Never+Stop+Learning" alt="Typing SVG" /></a></h1>
 
-<!-- <h1 align="center">Howdy 👋, My name is Md Ali</h1>
-<h2 align="center">A passionate researcher and educator from Texas</h3>
-<h3 align="center">Ph.D. Computer Science Student <br> M.S. Computer Science <br> M.S. Applied Cybersecurity and Digital Forensics <br> B.S. Phyiscs and Applied Mathematics</h3>
---> 
-
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p> -->
 
 ## **🤔 About me**
 - 🔭 I am a cybersecurity consultant who dabbles in coding ;) 
@@ -16,19 +10,44 @@
 - 📫 How to reach me: <br> Email - mdali251@yahoo.com <br>
 - ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese.
 
-## **📊 Stats**
-<div align="left" style="text-align:center">
-    <a href="#">
-        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xXxSpicyBoiiixXx&show_icons=true&theme=vision-friendly-dark&count_private=true"
-            alt="Md's GitHub Stats"> </a>
-</div>
 
-<div align="left" style="text-align:center">
+## **📊 Stats**
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=xXxSpicyBoiiixXx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
+            alt="Md's GitHub Stats"/> </a>
+        align="left" style="text-align:center">
      <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiiixXx&theme=vision-friendly-dark"
+        <img height=246 src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiiixXx&theme=vision-friendly-dark"
             alt="Md's Github commit streak">
      </a>
 </div>
+<div align="center" style="text-align:center"> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
+
+ </div>
+
+
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=xXxSpicyBoiiixXx" width="auto"></img>
+
+<br>
+
+<h1 align="center"></h1>
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake.svg">
+</p>
+
+<!-- # Howdy 👋, my name is **[Md Ali](https://alihmd.com)**! -->
+
+<!-- <h1 align="center">Howdy 👋, My name is Md Ali</h1>
+<h2 align="center">A passionate researcher and educator from Texas</h3>
+<h3 align="center">Ph.D. Computer Science Student <br> M.S. Computer Science <br> M.S. Applied Cybersecurity and Digital Forensics <br> B.S. Phyiscs and Applied Mathematics</h3>
+--> 
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=xxxspicyboiiixxx" alt="xxxspicyboiiixxx"/> </p> -->
+
+
 
 
 <!-- Something funky is happening to the small icons so I'll be omitting them for now<p align="left"><img src="http://fossforce.com/wp-content/uploads/2016/08/blackarchlogo.jpg" alt="blackarch" width="40" height="40"/>
