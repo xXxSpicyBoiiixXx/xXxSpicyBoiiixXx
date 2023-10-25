@@ -23,7 +23,7 @@
             alt="Md's GitHub Stats">
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiii&theme=vision-friendly-dark"
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiiixXx&theme=vision-friendly-dark"
             alt="Md's Github commit streak">
 </div>
 
