@@ -55,8 +55,8 @@
 
 <!-- Github stats 
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="xxxspicyboiii" />
-
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="xxxspicyboiii" />
+-->
  <h1 align="center"></h1> 
 <p align="center"><img src="https://wallup.net/wp-content/uploads/2017/11/23/514501-Linux-Arch_Linux-748x421.jpg" alt="ArchLinuxWallpaper"> 
 <h4 align="center">Favorite Quote</h4>
