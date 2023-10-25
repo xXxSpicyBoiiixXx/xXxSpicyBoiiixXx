@@ -18,12 +18,14 @@
             alt="Md's GitHub Stats"/> </a>
         align="left" style="text-align:center">
      <a href="#">
-        <img height=246 src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiiixXx&theme=vision-friendly-dark"
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=xXxSpicyBoiiixXx&theme=vision-friendly-dark"
             alt="Md's Github commit streak">
      </a>
 </div>
 <div align="center" style="text-align:center"> 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
+
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
 
  </div>
 
@@ -69,7 +71,6 @@
   
   <!-- Top Languages
   -->
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&count_private=true&layout=compact&theme=vision-friendly-dark" alt="xxxspicyboiiixxx" />
  <!-- figure this out later... <img aligh="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=xxxspicyboiiixxx" alt="wakatimeweek" /> --> 
 
 <!-- Github stats 
