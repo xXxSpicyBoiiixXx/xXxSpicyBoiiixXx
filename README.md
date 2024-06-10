@@ -7,7 +7,7 @@
 - 👨‍💻 Contributing to [EndeavourOS](https://github.com/endeavouros-team)! Come help out on this amazing open-source OS. 
 - 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss different ideas and problems we can work on together.
 - 💬 Ask me about cybersecurity, coding, or physics.
-- 📫 How to reach me: <br> Email - mdali251@yahoo.com <br>
+- 📫 How to reach me: <br> Email - mdhaliev@gmail.com <br>
 - ⚡ Fun fact: I am a language fanatic. I am currently fluent in English, Russian, and Bengali. My next target language is Chinese.
 
 <br>
