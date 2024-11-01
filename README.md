@@ -4,7 +4,7 @@
 ## **🤔 About me**
 - 🔭 I am a cybersecurity consultant who dabbles in coding and greatly supports open source. Linux over Windows/MacOS any day.  
 - 🌱 I’m currently learning operating systems, system security, and a slew of other things.
-- 👨‍💻 Contributing to various open source projects such as [EndeavourOS](https://github.com/endeavouros-team), [Caldera](https://github.com/mitre/caldera) and [Raven](https://github.com/CycodeLabs/raven)!
+- 👨‍💻 Contributing to various open source projects such as [EndeavourOS](https://github.com/endeavouros-team), [Caldera](https://github.com/mitre/caldera), [Sn1per](https://github.com/1N3/Sn1per) and [Raven](https://github.com/CycodeLabs/raven)!
 - 👯 I’m looking to collaborate on various projects! Please contact me and we can discuss different ideas and problems we can work on together.
 - 💬 Ask me about cybersecurity, coding, or physics.
 - 📫 How to reach me: <br> Email - mdhaliev@gmail.com <br>
