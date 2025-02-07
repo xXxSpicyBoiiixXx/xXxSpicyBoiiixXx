@@ -13,9 +13,9 @@
 <br>
 
 ## **📊 Stats**
-<p align="center">
+<!-- <p align="center">
     <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
-            alt="Md's GitHub Stats"/> 
+            alt="Md's GitHub Stats"/> --> 
     <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark&card_width=313" alt="Top Languages" />
 </p>
 
