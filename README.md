@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=4000&pause=100&color=149414&center=true&vCenter=true&random=false&width=600&lines=Howdy+%F0%9F%91%8B%2C+I'm+Md+Ali;Ethical+Hacker;Computer+Science+Professor;Passionate+OS+Developer;Integrity+First;Always+Loyal;Never+Stop+Learning" 
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&duration=4000&pause=100&color=149414&center=true&vCenter=true&random=false&width=600&lines=Howdy+%F0%9F%91%8B%2C+I'm+Md+Ali;Ethical+Hacker;Computer+Science+Professor;Passionate+OS+Developer;Think+Deeply;Code+Simply;Hack+Elegantly;" 
     alt="Typing SVG" />
   </a>
 </h1>
@@ -31,9 +31,9 @@
 
 ## **💡 Favorite Quote**
 <p align="center">
-  <em>"The isolated man does not develop any intellectual power. It is necessary for him to be immersed in an environment of other men, whose techniques he absorbs during the first twenty years of his life. He may then perhaps do a little research of his own and make a very few discoveries which are passed on to other men. From this point of view, the search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals."</em>
+  <em>"The most dangerous phrase in the language is, ‘We’ve always done it this way.’"</em>
 </p>
-<p align="right"><b>- Alan Turing</b></p>
+<p align="right"><b>- Rear Admiral Grace Hopper (Pioneer of Computer Science, Creator of COBOL)</b></p>
 
 ---
 
