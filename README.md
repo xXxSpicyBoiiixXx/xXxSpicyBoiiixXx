@@ -5,10 +5,6 @@
   </a>
 </h1>
 
-<p align="center">
-  <img src="https://wallup.net/wp-content/uploads/2017/11/23/514501-Linux-Arch_Linux-748x421.jpg" alt="Arch Linux" width="70%" />
-</p>
-
 ---
 
 ## **🤔 About Me**
