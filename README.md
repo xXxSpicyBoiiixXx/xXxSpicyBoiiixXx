@@ -17,6 +17,8 @@
  <!--   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
             alt="Md's GitHub Stats"/> --> 
     <img align="center" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark&card_width=313" alt="Top Languages" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxspicyboiiixxx&theme=vision-friendly-dark"
+            alt="Md's Github Commit Streak">
 </p>
 
 <br>
