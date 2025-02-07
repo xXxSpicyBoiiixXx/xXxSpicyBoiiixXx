@@ -5,8 +5,6 @@
   </a>
 </h1>
 
----
-
 ## **🤔 About Me**
 - 🔐 **Cybersecurity Consultant** | 🧑‍🏫 **Professor** | 💻 **Open Source Advocate**
 - 🛠 Passionate about **offensive security**, **OS development**, and **system security**.
