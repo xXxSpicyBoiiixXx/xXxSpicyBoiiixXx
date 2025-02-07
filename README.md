@@ -16,8 +16,8 @@
 <p align="left">
  <!--   <img align="center" height=200 src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&theme=vision-friendly-dark&include_all_commits=true"
             alt="Md's GitHub Stats"/> --> 
-    <img align="left" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark&card_width=313" alt="Top Languages" />
- <img align="right" height=200 img src="https://github-readme-streak-stats.herokuapp.com/?user=xxxspicyboiiixxx&theme=vision-friendly-dark"
+  <img align="left" height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxspicyboiiixxx&include_all_commits=true&layout=compact&theme=vision-friendly-dark&card_width=313" alt="Top Languages" />
+ <img align="right" height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=xxxspicyboiiixxx&theme=vision-friendly-dark"
             alt="Md's Github Commit Streak">
 </p>
 
@@ -60,7 +60,7 @@
 -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=xxxspicyboiiixxx&show_icons=true&count_private=true&theme=vision-friendly-dark" alt="xxxspicyboiii" />
 -->
- <h1 align="center"></h1> 
+<h1 align="center"></h1> 
 <p align="center"><img src="https://wallup.net/wp-content/uploads/2017/11/23/514501-Linux-Arch_Linux-748x421.jpg" alt="ArchLinuxWallpaper"> 
 <h4 align="center">Favorite Quote</h4>
 <p align="center"><em>"The isolated man does not develop any intellectual power. It is necessary for him to be immersed in an environment of other men, whose techniques he absorbs during the first twenty years of his life. He may then perhaps do a little research of his own and make a very few discoveries which are passed on to other men. From this point of view the search for new techniques must be regarded as carried out by the human community as a whole, rather than by individuals."</em></p>
